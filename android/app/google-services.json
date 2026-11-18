@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "673418348561",
+    "firebase_url": "https://manyhandsflutter-default-rtdb.firebaseio.com",
+    "project_id": "manyhandsflutter",
+    "storage_bucket": "manyhandsflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673418348561:android:1fcd138e623dc44544c9b0",
+        "android_client_info": {
+          "package_name": "com.manyhands.many_hands"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYYu7OxKq0r96ZuKZbvG1g3CaYgBcQKYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
